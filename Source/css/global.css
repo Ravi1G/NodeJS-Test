@@ -1,0 +1,85 @@
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	margin-left: 5%;
+	margin-right: 5%;
+	
+}
+
+.button {
+	background:white;
+	color:black;
+	padding:8px 8px; 
+	display:inline-block;
+	text-decoration:none;
+	
+	
+}
+a.button:hover{
+	background:rgb(236, 210, 3);
+	color: white;
+}
+
+#logo{
+	margin-left: 15%;
+	margin-right: 30%;
+}
+
+#listSpace{
+	background:rgb(236, 210, 3);
+	color: white;
+	padding:8px 8px; 
+	text-decoration:none;
+	
+}
+
+#hButtons{
+	position: relative;
+	float: right;
+	
+}
+#lrButton{
+	background:rgb(0, 142, 193);
+	color: white;
+	padding:8px 12px;
+	margin-left: 7%;
+}
+h1{ 
+     padding-top: 110px;
+     font-size: 280%;
+     color: white;
+     text-wrap: normal;
+     text-shadow: black;
+}
+
+header {
+	padding-top: 10px;
+}
+
+.part1 { 
+   width: 100%;
+   height: 250px;
+   text-align: center;
+   background-size: cover;
+   background-image:url('../Images/Carousel3.png'); 
+}
+
+.part2{
+	background-color: rgb(243,243,243);
+	padding-top: 20px;
+	padding-bottom: 25px;
+	padding-left: 42%;
+
+	
+	
+}
+
+footer{
+	text-align: center;
+	height: 100%;
+	margin-top: 6%;
+	
+}
+.field{
+	padding-bottom: 5px;
+	margin-top: 5px;
+}
